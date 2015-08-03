@@ -29,8 +29,6 @@ RUN yum -y install \
 	sipxconfig \
 	sipxconfig-ftp \
 	sipxconfig-tftp \
-	sipxpolycom \
-	sipxacccode \
 	sipxviewer \
 	sipxrest \
 	sipxcallcontroller \
